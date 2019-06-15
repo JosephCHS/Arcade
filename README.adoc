@@ -1,4 +1,4 @@
-# Arcade
+= Arcade
 
 Arcade is a gaming platform: a program that lets the user choose a game to play and keeps a register of
 player scores.
@@ -7,15 +7,23 @@ The graphic libraries and the games are implemented as dynamic libraries, loaded
 Each GUI available for the program are used as a shared library that will be loaded and used dynamically by the main
 program.
 
-## Graphic Libraries
+== Graphic Libraries
 
-. libcaca
-. SFML
-. SDL2
+.libcaca
+.SFML
+.SDL2
 
-# Usage
+== Usage
 
-ex: ./arcade ./lib_arcade_libcaca.so
+ex:
+.`./arcade -h`
+.`./arcade ./lib_arcade_libcaca.so`
 
-. The games are available in the ./games directory
-. The graphic libraries are in the ./lib directory
+.The games are available in the ./games directory
+.The graphic libraries are in the ./lib directory
+
+== Team
+
+.Paul Beauduc
+.Tony Delapierre
+.Joseph Chartois
