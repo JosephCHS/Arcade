@@ -9,9 +9,9 @@ program.
 
 == Graphic Libraries
 
-.libcaca
-.SFML
-.SDL2
+* libcaca
+* SFML
+* SDL2
 
 == Usage
 
