@@ -15,8 +15,6 @@ program.
 
 == Usage
 
-ex:
-
 * `./arcade -h`
 * `./arcade ./lib_arcade_libcaca.so`
 * The games are available in the ./games directory
