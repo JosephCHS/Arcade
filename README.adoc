@@ -27,26 +27,11 @@ All the documentation files are in the ./doc folder
 * Class diagram (UML) (pdf)
 * Documentation to implement the Arcade Project (pdf)
 
-== The teams
+== Team
 
-The games and libraries are compatible with each group
+* Paul BEAUDUC
+* Tony DELAPIERRE
+* Joseph CHARTOIS
 
-.Our Team
+The games and libraries are compatible with two other groups because we have a common architecture
 
-* Paul BEAUDUC : `paul.beauduc@epitech.eu`
-* Tony DELAPIERRE: `tony.delapierre@epitech.eu`
-* Joseph CHARTOIS: `joseph.chartois@epitech.eu`
-
-.First team
-
-* Théodore DAIGNAN FORNIER DE LACHAUX: `theodore.daignan-fornier-de-lachaux@epitech.eu`
-* Flavien PERROCHEAU: `flavien.perrocheau@epitech.eu`
-* Lib graphic: SFML, libcaca, ncurse
-* Game: Nibbler
-
-.Second team
-
-* Jules BLANCHET: `jules.blanchet@epitech.eu`
-* Dylan GARINEAUD: `dylan.garineaud@epitech.eu`
-* Lib graphic: SFML, SDL, ncurse
-* Game: Nibbler 
