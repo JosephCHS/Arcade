@@ -17,13 +17,13 @@ program.
 
 ex:
 
-*`./arcade -h`
-*`./arcade ./lib_arcade_libcaca.so`
-*The games are available in the ./games directory
-*The graphic libraries are in the ./lib directory
+* `./arcade -h`
+* `./arcade ./lib_arcade_libcaca.so`
+* The games are available in the ./games directory
+* The graphic libraries are in the ./lib directory
 
 == Team
 
-*Paul Beauduc
-*Tony Delapierre
-*Joseph Chartois
+* Paul Beauduc
+* Tony Delapierre
+* Joseph Chartois
