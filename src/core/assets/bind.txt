@@ -1,0 +1,10 @@
+
+                            In-game control
+
+        _______          _____        ________
+       |       |        |     |      |        |
+       |  Esc  |        |  R  |      |  Back  |
+       |_______|        |_____|      |________|
+
+        quit the        restart      go back to
+        program         the game     the menu
